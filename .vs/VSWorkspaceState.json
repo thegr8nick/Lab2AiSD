@@ -7,8 +7,9 @@
   },
   "ExpandedNodes": [
     "",
-    "\\include"
+    "\\include",
+    "\\out",
+    "\\out\\build"
   ],
-  "SelectedNode": "\\include\\list.h",
   "PreviewInSolutionExplorer": false
 }
